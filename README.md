@@ -1,4 +1,4 @@
-# blurry_loading
+# Blurry Loading Effect
 The image downloads in line with the percentage counter!
 
 ## 0 to 100%
